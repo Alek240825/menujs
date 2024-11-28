@@ -1,0 +1,17 @@
+{
+  "name": "menujs",
+  "version": "1.0.0",
+  "description": "Luis Alejandro Galicia Novoa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Alejandro Galicia Novoa",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3",
+    "menujs": "file:",
+    "uuid": "^11.0.2"
+  }
+}
